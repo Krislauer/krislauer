@@ -1,3 +1,11 @@
+<a href="https://de.linkedin.com/in/kristina-lauer-673084137">
+  <img align="left" alt="Kristinas LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=krislauer)
+
+<br />
+
 # Welcome to my page!
 
 It is nice to meet you. Here are some interesting facts about me:
@@ -11,3 +19,4 @@ It is nice to meet you. Here are some interesting facts about me:
 - I like to travel and Japan is my next destination
 
 [here you can read artciles written by me](https://www.foodspring.de/magazine/author/kristina)
+
